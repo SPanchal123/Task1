@@ -1,0 +1,5 @@
+
+//for create new user
+export const REQUEST_SCORELIST = "REQUEST_SCORELIST";
+export const SUCCESS_SCORELIST = "SUCCESS_SCORELIST";
+export const FAILURE_SCORELIST = "FAILURE_SCORELIST";
