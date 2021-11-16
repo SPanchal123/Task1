@@ -35,21 +35,11 @@ class Overlay extends Component {
                     <div className="league-card">
                         <img src={league} width="150px" />
 
-                        <div className="crd1">
-
-                        </div>
-                        <div className="crd2">
-
-                        </div>
-                        <div className="crd3">
-
-                        </div>
-                        <div className="crd4">
-
-                        </div>
-                        <div className="crd5">
-
-                        </div>
+                        <div className="crd1"></div>
+                        <div className="crd2"></div>
+                        <div className="crd3"></div>
+                        <div className="crd4"></div>
+                        <div className="crd5"></div>
 
                     </div>
                     <div className="title-text">

@@ -5,7 +5,7 @@ import Overlay from "./pages/Overlay";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Overlay />
     </div>
   )
